@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aksultan and I just begin my journey in IT
+- 👋 Hi, I’m Aksultan and I am beginner in IT world
 - 👀 I’m interested in being fullstack javascript developer
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to be a part of interesting projects to not only rise my knowledge but also be helpful to achieve projects goals! 
+- 💞️ I’m looking to be a part of interesting projects to not only rise my knowledge but also to be helpful to achieve project's goals! 
 - 📫 You can reach me via 
 <a href="https://instagram.com/ayerzhanuly" target="_blank">instagram</a> 
 
